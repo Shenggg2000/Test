@@ -98,6 +98,7 @@ $(function () {
         $(ele).children('.copy-p').children('button').click(function () {
             copyToClipboard(obj.btn[index].codep);
         });
+        
         $(ele).children('.copy-n').children('button').click(function () {
             copyToClipboard(obj.btn[index].coden);
         });
