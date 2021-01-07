@@ -174,6 +174,7 @@ $(function () {
         $temp.val(element).select();
         document.execCommand("copy");
         $temp.remove();
+        alert("Copied");
     }
 
     var leftNavFlag = true;
