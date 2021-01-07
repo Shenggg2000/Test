@@ -93,3 +93,11 @@ li.active{
     background-color: transparent;
     color: grey;
 }
+
+.blur-info{
+    background-color: rgba(238, 238, 238, 0.8) !important;
+}
+
+.clip-image-sec .container {
+    background-color: #eeeeee !important;
+}
